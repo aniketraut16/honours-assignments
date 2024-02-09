@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/aniketraut16/honours-assignments/issues"
   },
-  "homepage": "https://github.com/aniketraut16/honours-assignments#readme"
+  "homepage": "https://github.com/aniketraut16/honours-assignments#readme",
+  "dependencies": {}
 }
