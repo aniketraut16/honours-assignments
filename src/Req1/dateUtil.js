@@ -9,5 +9,4 @@ function isLeap(year) {
     return true;
   }
 }
-
 export { isLeap };

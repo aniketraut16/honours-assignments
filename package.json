@@ -18,5 +18,7 @@
     "url": "https://github.com/aniketraut16/honours-assignments/issues"
   },
   "homepage": "https://github.com/aniketraut16/honours-assignments#readme",
-  "dependencies": {}
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
